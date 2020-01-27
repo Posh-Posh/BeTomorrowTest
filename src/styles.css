@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin&display=swap');
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-flow: wrap;
+}
+
+li {
+  border: 2px solid black;
+  border-radius: .5em;
+  height: 151px;
+  width: 117px;
+  margin: .5em;
+  text-align: center;
+  font-size: 4em;
+  font-family: 'Cabin', sans-serif;
+}
